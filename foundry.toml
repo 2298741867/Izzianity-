@@ -1,0 +1,4 @@
+[profile.default]
+src = "smart_contracts"
+test = "smart_contracts/test"
+solc_version = "0.8.24"
